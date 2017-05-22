@@ -1,1 +1,1 @@
-# graph_myo_emg_data
+# graph-myo-emg-data
