@@ -1,0 +1,13 @@
+*.creator.user*
+*.pro.user*
+*.pyqtc.user*
+*.qbs.user*
+*.qmlproject.user*
+/share/qtcreator/externaltools
+/share/qtcreator/fonts/
+/share/qtcreator/generic-highlighter/
+/src/app/Info.plist
+/src/plugins/**/*.json
+/src/plugins/coreplugin/ide_version.h
+app_version.h
+phony.c
