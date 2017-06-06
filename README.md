@@ -11,9 +11,14 @@ Uses gnuplot external library : http://gnuplot.info/
 #Usage (tested on Fedora21)
 
 Download Qt project.
+
 Open in QT.
+
 Build.
+
 Run...
 Select a file fros test files.
+
 Select an ouput directory.
+
 Find graphs in output directory (1 graph per sensor).
