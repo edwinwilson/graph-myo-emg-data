@@ -7,3 +7,13 @@ Myo Data Capture: https://market.myo.com/app/55009793e4b02e27fd3abe79/myo-data-c
 Myo website : https://www.myo.com/
 
 Uses gnuplot external library : http://gnuplot.info/
+
+#Usage (tested on Fedora21)
+
+Download Qt project.
+Open in QT.
+Build.
+Run...
+Select a file fros test files.
+Select an ouput directory.
+Find graphs in output directory (1 graph per sensor).
