@@ -8,7 +8,7 @@ Myo website : https://www.myo.com/
 
 Uses gnuplot external library : http://gnuplot.info/
 
-#Usage (tested on Fedora21)
+# Usage (tested on Fedora21)
 
 Download Qt project.
 
