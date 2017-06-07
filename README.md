@@ -10,9 +10,9 @@ Uses gnuplot external library : http://gnuplot.info/
 
 # Usage (tested on Fedora21)
 
-Download Qt project.
+Download Qt Creator project.
 
-Open in QT.
+Open in QT Creator.
 
 Build.
 
