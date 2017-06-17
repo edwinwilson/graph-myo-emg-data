@@ -17,7 +17,7 @@ Open in QT Creator.
 Build.
 
 Run...
-Select a file fros test files.
+Select a file from test files.
 
 Select an ouput directory.
 
